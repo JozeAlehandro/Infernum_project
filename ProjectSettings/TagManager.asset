@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Win
+  - Enemy
+  - Exit
+  - Health
+  - Tomatoes
+  - InfoTab
+  - Ground
+  - InfoForText
+  - Arrow
+  - knopkaArrowSpawn
+  - Spike
+  - knopkaOpenCrate
+  - CheckPoint
+  - Portal
+  - DieSpace
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Lava
+  - Ladder
+  - Crate
+  - Bomba
+  - FogOfWarMain
+  - FogOfWarSecondary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player
+    uniqueID: 2002599871
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FG
+    uniqueID: 2797729153
+    locked: 0
+  - name: BG
+    uniqueID: 2649620823
+    locked: 0

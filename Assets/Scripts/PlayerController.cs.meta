@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 38d9117aa3377b4439808e6f88dfb08d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - volumeSlider: {instanceID: 0}
+  - feetPos: {instanceID: 0}
+  - schetchik: {instanceID: 0}
+  - HP: {instanceID: 0}
+  - TextAbovePlayer: {instanceID: 0}
+  - InfoForText: {instanceID: 0}
+  - smert: {instanceID: 0}
+  - TomatoForSchetchik: {instanceID: 0}
+  - plusOneText: {instanceID: 0}
+  - menu: {instanceID: 0}
+  - settings: {instanceID: 0}
+  - door: {instanceID: 0}
+  - bababooy: {fileID: 8300000, guid: 643a23f86117f944ba22c47b2ac9531c, type: 3}
+  - victory: {fileID: 8300000, guid: 88d463d2c191e2541942c3f1413c3bae, type: 3}
+  - pomidorka: {fileID: 8300000, guid: bf38b66c51727c84681569e0140e9aeb, type: 3}
+  - neverGonna: {fileID: 8300000, guid: 458e9d13c572b694d80dc1500ca7b61c, type: 3}
+  - die: {fileID: 8300000, guid: 769338755efb47740a800dcdfad17527, type: 3}
+  - jumpSound: {fileID: 8300000, guid: 2cfceef58be6b194f865173e9e99185c, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
